@@ -1,6 +1,6 @@
 # Arabic Islamic RAG — Reviewed Academic Prototype
 
-An Arabic research assistant that retrieves Islamic source passages with lexical and semantic search, then returns an excerpt with source metadata. Recovered from an academic Team 7 project and presented in **Samer Weryam's** portfolio (AI student, Taibah University). Samer confirmed team permission to publish this code on 2026-10-09. His specific implementation contributions have not yet been supplied, so this repository makes no sole-authorship claim.
+An Arabic research assistant developed independently by **Samer Weryam**, an AI student at Taibah University. It retrieves Islamic source passages with lexical and semantic search, then returns an excerpt with source metadata. Samer confirmed on 2026-10-09 that he implemented the full original project himself. Legacy filenames containing a team label do not describe implementation authorship.
 
 ## Implemented in this recovered version
 
@@ -59,4 +59,4 @@ streamlit run app.py
 
 See [the review](docs/REVIEW.md) for actual validation and unresolved issues. No precision, recall, answer accuracy, or religious-authority claim is made. Metadata citations do not establish source authenticity or answer correctness. Source-boost ranking and the limited domain filter need measured evaluation. The optional generation/verification route is experimental. The local corpus is excluded until its permissions and provenance are clear.
 
-This is an academic research aid, not a source of binding religious rulings. Consult qualified scholars and primary texts. No reuse license has been selected. Team permission to publish the code does not establish dataset or video redistribution rights.
+This is an academic research aid, not a source of binding religious rulings. Consult qualified scholars and primary texts. No reuse license has been selected. Code ownership does not establish third-party dataset or video redistribution rights.

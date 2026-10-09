@@ -1,6 +1,6 @@
 # Review — 2026-10-09
 
-Status: reviewed source release. Recovered demo filenames identify Team 7. On 2026-10-09 Samer confirmed team permission to publish the code. Specific individual contributions have not yet been provided and are not inferred.
+Status: reviewed source release. On 2026-10-09 Samer clarified that he independently implemented the full original Islamic project. Earlier attribution inferred from filenames containing “Team 7” was incorrect and has been corrected. The review copy's preparation changes are listed separately below.
 
 ## Evidence
 
@@ -22,7 +22,7 @@ Original files and Git history were left untouched. The source manifest hashes t
 
 ## Still unresolved
 
-- Samer's exact contribution; team code publication permission has been confirmed.
+- Third-party corpus provenance and permissions remain separate from Samer's implementation authorship.
 - Dataset redistribution permissions and authoritative origin/version per source category.
 - Corpus relevance and citation correctness against an annotated evaluation set.
 - Source-type boosts can outweigh similarity; threshold scores are not calibrated.
