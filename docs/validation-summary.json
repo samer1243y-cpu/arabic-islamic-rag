@@ -1,0 +1,38 @@
+{
+  "review_date": "2026-10-09",
+  "mode": "offline_extractive",
+  "local_corpus_record_counts": {
+    "hadith": 50759,
+    "fatwas": 33715,
+    "quran": 11867,
+    "tafsir": 6205
+  },
+  "total_local_records": 102546,
+  "validation_subset_records": 24,
+  "embedding_model": "intfloat/multilingual-e5-base",
+  "embedding_dimensions": 768,
+  "indexed_vectors": 24,
+  "api_calls": 0,
+  "same_count_cache_invalidation_test": "passed",
+  "queries": [
+    {
+      "query": "ما معنى الصراط المستقيم؟",
+      "intent": "tafsir",
+      "sources_returned": 5,
+      "verified": false
+    },
+    {
+      "query": "حديث عن الصلاة",
+      "intent": "hadith",
+      "sources_returned": 5,
+      "verified": false
+    },
+    {
+      "query": "من هو رئيس الولايات المتحدة؟",
+      "intent": "default",
+      "sources_returned": 0,
+      "verified": false
+    }
+  ],
+  "evaluation": "Execution validation on a small recovered local subset; no relevance or answer accuracy metric."
+}

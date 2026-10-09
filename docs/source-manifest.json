@@ -1,0 +1,47 @@
+[
+  {
+    "source": "config.py",
+    "destination": "config.py",
+    "sha256": "407e64359bdda87b64b0fe40ea5b5e4b36d7e61f0ebe0e2f825215fa9faa5d0f"
+  },
+  {
+    "source": "data_pipeline.py",
+    "destination": "data_pipeline.py",
+    "sha256": "9ab252ff00a69741836c8a1676cc0ee73ac2726a00aa2c16d6236132b60217ba"
+  },
+  {
+    "source": "indexer.py",
+    "destination": "indexer.py",
+    "sha256": "c4369b76798db19379123266e9168ac7522e9a13e72d547d86ef7785c0fb7028"
+  },
+  {
+    "source": "retrieval_engine.py",
+    "destination": "retrieval_engine.py",
+    "sha256": "f623a18a88570ae8fd8f616bc6a18ab22b565e18ef96581d15ce1215217cf734"
+  },
+  {
+    "source": "query_optimizer.py",
+    "destination": "query_optimizer.py",
+    "sha256": "d6178648eff77712e28f7eb073612c278b7dfbc813022b5dbab4b4d4b11b7f08"
+  },
+  {
+    "source": "answer_generator.py",
+    "destination": "answer_generator.py",
+    "sha256": "a17aaa8083406d7bc4fb6125dc430610d812ea43dda0a17d4cda2d886b2bf8d6"
+  },
+  {
+    "source": "rag_agent.py",
+    "destination": "rag_agent.py",
+    "sha256": "fd4aa6e6e3e0540305c0fddbd49c0f671afb27d9939bde61c3124298048f2b4c"
+  },
+  {
+    "source": "run_rag.py",
+    "destination": "run_rag.py",
+    "sha256": "45618af01f2fb0ed53d033432bb9fea5325938633623f1fb1840a3bb6bc0de1e"
+  },
+  {
+    "source": "app.py",
+    "destination": "app.py",
+    "sha256": "0e012090f52932c41466d1702caafb3ccbf2063cff16177ec8980d94c02f7c2b"
+  }
+]

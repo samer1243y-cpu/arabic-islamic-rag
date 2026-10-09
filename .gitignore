@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+processed/
+indexes/
+logs/
+db/
+quran/
+hadith-json-main/
+demo_last_answer.txt
